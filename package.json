@@ -1,0 +1,58 @@
+{
+  "fitbit": {
+    "appUUID": "e5c1b903-f1fb-4d55-b150-757db1792c25",
+    "appType": "clockface",
+    "appDisplayName": "Clean Digital",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Clean Digital"
+      },
+      "de": {
+        "name": "Clean Digital"
+      },
+      "es": {
+        "name": "Clean Digital"
+      },
+      "fr": {
+        "name": "Clean Digital"
+      },
+      "it": {
+        "name": "Clean Digital"
+      },
+      "ja": {
+        "name": "Clean Digital"
+      },
+      "ko": {
+        "name": "Clean Digital"
+      },
+      "nl": {
+        "name": "Clean Digital"
+      },
+      "sv": {
+        "name": "Clean Digital"
+      },
+      "zh-cn": {
+        "name": "Clean Digital"
+      },
+      "zh-tw": {
+        "name": "Clean Digital"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}
